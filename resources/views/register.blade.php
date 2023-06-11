@@ -85,7 +85,7 @@
             <input type="text" name="role" placeholder="Role">
             <input type="password" name="password" placeholder="password">
             <button type="submit">Register</button> 
-            <button> <a href="{{asset('/user/login')}}" class="home-btn">Login</a></button>
+            <button> <a href="{{asset('/auth/login')}}" class="home-btn">Login</a></button>
          
     </div>
 </body>
